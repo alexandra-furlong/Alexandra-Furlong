@@ -23,11 +23,11 @@ Feel free to email me at `Alexandra.furlong99@gmail.com` \
    - [Demo Video]()
 2. ##### `BookTessera` (Private Repo - Email me for access)
    - A ticketing platform that aims to eliminate stressful & unfair ticket purchasing experiences.
-   - [Demo Video](https://drive.google.com/file/d/14bPCz4vJZHSB_YPJI67C0TcU6sLctUjq/view)
+   - [Demo Video](https://youtu.be/KKIQdr2fwqw)
    - Built in React JS and Node.js with supporting Python files to generate a waiting queue.
 3. ##### [`SpiceLab`](https://github.com/alexandra-furlong/spicelab)
    - A recipe website that allows a user to add/edit their own recipes & explore other recipes.
-   - [Demo Video](https://drive.google.com/file/d/1iR8HjL91tStQN2VBJ8Qu16wwXVwDPs42/view?usp=sharing)
+   - [Demo Video](https://youtu.be/0BU99t-MWBg)
    - This database-driven web application was built using Py4web and Vue.js.
 4. #### [`Interactive 3D Lighting`](https://github.com/alexandra-furlong/Interactive-3D-Lighting-Demo)
    - A 3D interactive scene featuring dynamic lighting using WebGL & GLSL, implementing Phong shading to model ambient, diffuse & specular lighting effects for realistic illumination of objects.
