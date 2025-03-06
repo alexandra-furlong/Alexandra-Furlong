@@ -35,7 +35,11 @@ Feel free to email me at `Alexandra.furlong99@gmail.com` \
 4. ##### [`Martha's Countdown Timer`](https://github.com/alexandra-furlong/Martha-s-Countdown-Timer)
    - A Discord bot with custom commands for event countdowns, user rankings and silly biographies to improve community engagement within servers.
    - Implemented with Discord's API and Python.
-5. ##### `Scrap Mall` (Private Repo- Email me for access)
+5. ##### `Scrap Mall` (Private Repo - Email me for access)
    - A 2D cyberpunk-themed video game that is accessible for online play, created within 48 hours at Global Game Jam in a team of other developers and artists!
    - [Link To Game](https://revthegame.itch.io/scrap-mall)
    - Developed with Godot Engine and Python.
+6. ##### `Harpoonin' n' Fishin'` (Private Repo - Email me for access)
+   - A vibrant under the sea fishing game where the player attempts to capture as many fish as they can before the timer is up.
+   - This game was created with a small team of artists, developers, game designers and video game sound designers over the course of 4 months.
+   - [Demo Video](https://youtu.be/z1XjARuTwyA)
