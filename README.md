@@ -41,6 +41,6 @@ Feel free to email me at `Alexandra.furlong99@gmail.com` \
    - Developed with Godot Engine and Python.
 6. ##### `Harpoonin' n' Fishin'` (Private Repo - Email me for access)
    - A vibrant under the sea fishing game where the player attempts to capture as many fish as they can before the timer is up.
-   - This game was created with a small team of artists, developers, game designers and video game sound designers over the course of 4 months.
+   - This game was created with a small team of artists, developers, game designers and video game sound designers over the course of 5 months.
    - Implemented with GML and C++.
    - [Demo Video](https://youtu.be/z1XjARuTwyA)
